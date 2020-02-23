@@ -1,0 +1,17 @@
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/web/RatingDtoTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/web/LoginDtoTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/web/RatingControllerTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/web/RatingAssemblerTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/domain/TourRatingTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/ExplorecaliApplicationTests.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/domain/TourPackageTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/service/TourRatingServiceTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/repo/UserRepositoryTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/service/UserServiceIntegrationTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/web/TourRatingControllerTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/service/TourRatingServiceIntegrationTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/web/UserControllerTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/domain/TourTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/web/JwtRequestHelper.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/domain/RegionConverterTest.java
+/Users/profemzy/Downloads/Ex_Files_Ext_Docker_Spring_Boot/Exercise Files/Ch05/05_05/explorecali/src/test/java/com/example/ec/domain/RegionTest.java
